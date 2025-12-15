@@ -81,10 +81,7 @@ All generated figures and intermediate outputs are written to the `output/` dire
 Copy text from example environment file:
 
 ```bash
-touch .env
-```
-```bash
-nano .env
+cp .envexample .env
 ```
 These keys are required to run `usage_analysis_using_LLM.ipynb`.
 
