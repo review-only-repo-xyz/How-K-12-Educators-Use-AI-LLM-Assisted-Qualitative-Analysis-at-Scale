@@ -1,0 +1,11 @@
+# DO NOT MODIFY AND COMMIT YOUR SECRETS IN THIS `.env.example` 
+# Copy to a new file `.env` and update with your secrets
+
+# PSQL DB access key 
+PSQL_PASSWORD=''
+
+# Anthropic API key 
+ANTHROPIC_API_KEY=""
+
+# OpenAI API key
+OPENAI_API_KEY=""
