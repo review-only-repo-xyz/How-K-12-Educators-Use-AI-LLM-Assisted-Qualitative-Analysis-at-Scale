@@ -78,10 +78,13 @@ All generated figures and intermediate outputs are written to the `output/` dire
 
 ### 1. Create your environment file
 
-Copy the example environment file:
+Copy text from example environment file:
 
 ```bash
-cp .envexample .env
+touch .env
+```
+```bash
+nano .env
 ```
 These keys are required to run `usage_analysis_using_LLM.ipynb`.
 
